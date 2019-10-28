@@ -25,7 +25,7 @@ combination puzzle algorithms
 * Y  : (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
 
 ## Fisher's Cube
-* Ua center-orientation-wise: Ué R U R' U R' U' R2 U' R' U R' U R
+* Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
 * Ub center-orientation-wise: R' U' R U' R U R2 U R U' R U' R' U2
 * Parity on Right 'corner': R U R' U' R U R' U y' R' U' R U R' U' R
 * Parity on Front 'corner': R2 U' R U R U2 y R' F' R F
