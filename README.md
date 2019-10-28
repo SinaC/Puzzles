@@ -24,6 +24,8 @@ combination puzzle algorithms
 * Nb: TBD
 * Y  : (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
 
+* Test Ra:  cube.crider.co.uk/visualcube.php?fmt=svg&size=150&pzl=2&alg=R2B'R'U'R'URBR'U2RU2R'
+
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
 * Ub center-orientation-wise: R' U' R U' R U R2 U R U' R U' R' U2
@@ -31,4 +33,5 @@ combination puzzle algorithms
 * Parity on Front 'corner': R2 U' R U R U2 y R' F' R F
 
 # Links
-http://cube.crider.co.uk/visualcube.php
+* http://cube.crider.co.uk/visualcube.php
+* https://www.cubeskills.com/tutorials/coll-algorithms
