@@ -2,18 +2,18 @@
 combination puzzle algorithms
 
 ## 3x3x3
-* Aa: x(R'UR') D2 (RU'R') (D2R2)
-* Ab: x (R2D2)(RUR') D2 (RU'R)
+* Aa ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=x(R'UR') D2 (RU'R') (D2R2)&arw=U0U2,U2U8,U8U2&ac=black) x(R'UR') D2 (RU'R') (D2R2)
+* Ab ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=x(R2D2)(RUR') D2 (RU'R)&arw=U0U8,U8U2,U2U0&ac=black) x(R2D2)(RUR') D2 (RU'R)
 * E:  TBD
-* Ua: (R2U')(R'U')(RU)(RU)(RU'R)
-* Ub: (R'UR'U')(R'U')(R'U)(RUR2)
-* Z : (M2'U)(M2'U)(M'U2)(M2'U2)(M'U2)
-* H : (M2'U)(M2'U2)(M2'U)M2'
+* Ua ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2U'R'U'RURURU'R&arw=U3U5,U5U1,U1U3&ac=black) (R2U')(R'U')(RU)(RU)(RU'R)
+* Ub ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R'UR'U'R'U'R'URUR2&arw=U5U3,U3U1,U1U5&ac=black) (R'UR'U')(R'U')(R'U)(RUR2)
+* Z ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=M2'UM2'UM'U2M2'U2M'U2&arw=U3U1,U1U3,U7U5,U5U7&ac=black) (M2'U)(M2'U)(M'U2)(M2'U2)(M'U2)
+* H ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=(M2'U)(M2'U2)(M2'U)M2'&arw=U1U7,U7U1,U3U5,U5U3&ac=black) (M2'U)(M2'U2)(M2'U)M2'
 * Ja: (LU')(R'U)L'U2(RU'R'U2)R
 * Jb : (L'U)(RU')LU2(R'URU2)R'
 * T:  (RUR'U')(R'F)(R2U')(R'U'RU)(R'F')
-* Ra ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arw=U1U3,U3U1,U2U8,U8U2) (R2B') R'U' (R'URBR'U2)(RU2R')
-* Rb ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2FRURU'R'F'RU2R'U2R&arw=U3U7,U7U3,U2U8,U8U2) (R2FRU) RU'R'F' R U2 (R'U2R)
+* Ra ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arw=U1U3,U3U1,U2U8,U8U2&ac=black) (R2B') R'U' (R'URBR'U2)(RU2R')
+* Rb ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2FRURU'R'F'RU2R'U2R&arw=U3U7,U7U3,U2U8,U8U2&ac=black) (R2FRU) RU'R'F' R U2 (R'U2R)
 * F:  TBD
 * Ga: TBD
 * Gb: TBD
