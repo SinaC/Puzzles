@@ -2,7 +2,7 @@
 combination puzzle algorithms
 
 ## 3x3x3
-* Aa: x(R'UR') D2 (RU'R') (D2R2)
+* Aa ![image](http://www.cubewhiz.com/images/pll/pll01.gif): x(R'UR') D2 (RU'R') (D2R2)
 * Ab: x (R2D2)(RUR') D2 (RU'R)
 * E:  TBD
 * Ua: (R2U')(R'U')(RU)(RU)(RU'R)
