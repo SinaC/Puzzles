@@ -19,7 +19,7 @@ combination puzzle algorithms
 * Gb: TBD
 * Gc: TBD
 * Gd: TBD
-* V:  TBD
+* V:  (R'UR'U') y (R'F'R2U')(R'UR'F) RF
 * Na: TBD
 * Nb: TBD
 * Y  : (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
