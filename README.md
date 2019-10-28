@@ -9,8 +9,8 @@ combination puzzle algorithms
 * Ub ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U5U3-s7,U3U1-s7,U1U5-s7) (R'UR'U')(R'U')(R'U)(RUR2)
 * Z ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U1,U1U3,U7U5,U5U7) (M2'U)(M2'U)(M'U2)(M2'U2)(M'U2)
 * H ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U1U7,U7U1,U3U5,U5U3) (M2'U)(M2'U2)(M2'U)M2'
-* Ja: (LU')(R'U)L'U2(RU'R'U2)R
-* Jb : (L'U)(RU')LU2(R'URU2)R'
+* Ja ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U1U5-s7,U5U1-s7,U2U8-s7,U8U2-s7) (LU')(R'U)L'U2(RU'R'U2)R
+* Jb ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U7U5-s7,U5U7-s7,U2U8-s7,U8U2-s7) (L'U)(RU')LU2(R'URU2)R'
 * T:  (RUR'U')(R'F)(R2U')(R'U'RU)(R'F')
 * Ra ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U1U3,U3U1,U2U8,U8U2) (R2B') R'U' (R'URBR'U2)(RU2R')
 * Rb ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U7,U7U3,U2U8,U8U2) (R2FRU) RU'R'F' R U2 (R'U2R)
