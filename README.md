@@ -29,3 +29,6 @@ combination puzzle algorithms
 * Ub center-orientation-wise: R' U' R U' R U R2 U R U' R U' R' U2
 * Parity on Right 'corner': R U R' U' R U R' U y' R' U' R U R' U' R
 * Parity on Front 'corner': R2 U' R U R U2 y R' F' R F
+
+# Links
+http://cube.crider.co.uk/visualcube.php
