@@ -24,7 +24,7 @@ combination puzzle algorithms
 * Nb: TBD
 * Y  : (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
 
-* Test Ra: ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arwU1U3,U2U8)
+* Test Ra: ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arw=U1U3,U2U8)
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
