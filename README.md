@@ -12,8 +12,8 @@ combination puzzle algorithms
 * Ja: (LU')(R'U)L'U2(RU'R'U2)R
 * Jb : (L'U)(RU')LU2(R'URU2)R'
 * T:  (RUR'U')(R'F)(R2U')(R'U'RU)(R'F')
-* Ra: (R2B') R'U' (R'URBR'U2)(RU2R')
-* Rb: (R2FRU) RU'R'F' R U2 (R'U2R)
+* Ra ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arw=U1U3,U3U1,U2U8,U8U2) (R2B') R'U' (R'URBR'U2)(RU2R')
+* Rb ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2FRURU'R'F'RU2R'U2R&arw=U3U7,U7U3,U2U8,U8U2) (R2FRU) RU'R'F' R U2 (R'U2R)
 * F:  TBD
 * Ga: TBD
 * Gb: TBD
@@ -23,8 +23,6 @@ combination puzzle algorithms
 * Na: TBD
 * Nb: TBD
 * Y  : (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
-
-* Test Ra: ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&case=R2B'R'U'R'URBR'U2RU2R'&arw=U1U3,U3U1,U2U8,U8U2)
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
