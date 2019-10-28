@@ -19,10 +19,10 @@ combination puzzle algorithms
 * Gb: TBD
 * Gc: TBD
 * Gd: TBD
-* V ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8-s7,U8U0-s7,U1U5-s7,U5U1-s7) (R'UR'U') y (R'F'R2U')(R'UR'F) RF
+* V ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8,U8U0,U1U5,U5U1) (R'UR'U') y (R'F'R2U')(R'UR'F) RF
 * Na: TBD
 * Nb: TBD
-* Y ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8-s7,U8U0-s7,U3U1-s7,U1U3-s7) (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
+* Y ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8,U8U0,U3U1,U1U3) (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
