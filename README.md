@@ -2,7 +2,7 @@
 combination puzzle algorithms
 
 ## 3x3x3
-* Aa ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&case=xR'UR'D2RU'R'D2R2&arw=U0U2-s7,U2U8-s7,U8U2-s7) x(R'UR') D2 (RU'R') (D2R2)
+* Aa ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&case=xR'UR'D2RU'R'D2R2&arw=U0U2-s7,U2U8-s7,U8U0-s7) x(R'UR') D2 (RU'R') (D2R2)
 * Ab ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&case=xR2D2RUR'D2RU'R&arw=U0U8-s7,U8U2-s7,U2U0-s7) x(R2D2)(RUR') D2 (RU'R)
 * E:  TBD
 * Ua ![image](http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&case=R2U'R'U'RURURU'R&arw=U3U5-s7,U5U1-s7,U1U3-s7) (R2U')(R'U')(RU)(RU)(RU'R)
