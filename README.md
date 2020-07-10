@@ -30,6 +30,11 @@ combination puzzle algorithms
 * Parity on Right 'corner': R U R' U' R U R' U y' R' U' R U R' U' R
 * Parity on Front 'corner': R2 U' R U R U2 y R' F' R F
 
+## Big cubes
+* edge flip (flip FR): (RUR'F) (R'FR)
+* 4x4x4 orientation parity (UF edge): Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 Rw' U2' Rw U2 Rw' U2' Rw'
+* 5x5x5 permutation parity (UF edge): Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 3Rw' U2' Rw U2 Rw' U2' Rw'  (same as 4x4x4, 3Rw means 3 right-most layers)
+
 # Links
 * http://cube.crider.co.uk/visualcube.php
 * https://www.cubeskills.com/tutorials/coll-algorithms
