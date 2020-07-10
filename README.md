@@ -32,8 +32,10 @@ combination puzzle algorithms
 
 ## Big cubes
 * edge flip (flip FR): (RUR'F) (R'FR)
-* 4x4x4 orientation parity (UF edge): Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 Rw' U2' Rw U2 Rw' U2' Rw'
-* 5x5x5 permutation parity (UF edge): Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 3Rw' U2' Rw U2 Rw' U2' Rw'  (same as 4x4x4, 3Rw means 3 right-most layers)
+* 4x4x4 orientation parity (UF edge) ![image](http://cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=4&view=plan&cc=grey&fc=yyyyyyyyyyyyybbyrrrrrrrrrrrrrrrrbyybbbbbbbbbbbbbwwwwwwwwwwwwwwwwoooooooooooooooogggggggggggggggg) Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 Rw' U2' Rw U2 Rw' U2' Rw'
+* 5x5x5 permutation parity (UF edge) ![image](http://cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=5&view=plan&cc=grey&fc=yyyyyyyyyyyyyyyyyyyyybybyrrrrrrrrrrrrrrrrrrrrrrrrrbybybbbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwwwwwwwwwwwoooooooooooooooooooooooooggggggggggggggggggggggggg) Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 3Rw' U2' Rw U2 Rw' U2' Rw'  (same as 4x4x4, 3Rw means 3 right-most layers)
+
+
 
 # Links
 * http://cube.crider.co.uk/visualcube.php
