@@ -1,9 +1,6 @@
 # Puzzles
 combination puzzle algorithms
 
-## Test
-* Pouet <p align="bottom"><img src="http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U2U8-s7,U8U0-s7"/></p>
-
 ## 3x3x3
 * Aa <p align="bottom"><img src="http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U2U8-s7,U8U0-s7"/></p> x(R'UR') D2 (RU'R') (D2R2)
 * Ab <p align="bottom"><img src="http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8-s7,U8U2-s7,U2U0-s7"></p> x(R2D2)(RUR') D2 (RU'R)
