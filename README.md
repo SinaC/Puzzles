@@ -34,7 +34,7 @@ combination puzzle algorithms
 * edge flip (flip FR): (RUR'F) (R'FR)
 * 4x4x4 orientation parity (UF edge) <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=4&view=plan&cc=grey&fc=yyyyyyyyyyyyybbyrrrrrrrrrrrrrrrrbyybbbbbbbbbbbbbwwwwwwwwwwwwwwwwoooooooooooooooogggggggggggggggg"/></p> Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 Rw' U2' Rw U2 Rw' U2' Rw'
 * 5x5x5 permutation parity (UF edge) <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=5&view=plan&cc=grey&fc=yyyyyyyyyyyyyyyyyyyyybybyrrrrrrrrrrrrrrrrrrrrrrrrrbybybbbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwwwwwwwwwwwoooooooooooooooooooooooooggggggggggggggggggggggggg"/></p> Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 3Rw' U2' Rw U2 Rw' U2' Rw'  (same as 4x4x4, 3Rw means 3 right-most layers)
-* 6x6x6 permutation parity (UF edge) <p align="bottom"><img src="cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=6&view=plan&cc=grey&fc=yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyybbyyrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrbbyybbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwoooooooooooooooooooooooooooooooooooogggggggggggggggggggggggggggggggggggg
+* 6x6x6 permutation parity (UF edge) <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&pzl=6&view=plan&cc=grey&fc=yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyybbyyrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrbbyybbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwoooooooooooooooooooooooooooooooooooogggggggggggggggggggggggggggggggggggg
 "/></p>
 Rw U2 x Rw U2 Rw U2 Rw' U2' Lw U2 4Rw' U2' Rw U2 Rw' U2' Rw'  (same as 4x4x4, 4Rw means 4 right-most layers)
 * 6x6x6 orientation parity (UF edge) 3Rw U2 x 3Rw U2 3Rw U2 3Rw' U2' 3Lw U2 3Rw' U2' 3Rw U2 3Rw' U2' 3Rw'
