@@ -25,13 +25,18 @@ combination puzzle algorithms
 * Y <p align="bottom"><img src="http://cube.crider.co.uk/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8,U8U0,U3U1,U1U3"/></p> (FRU')(R'URU)(R'F')(RUR'U')(R'FRF')
 
 ## 3x3x3 COLL
-# Pi cases
+### Pi cases
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU2R2U'R2U'R2U2R"></p>RU2(R2'U')(R2U')(R2'U2'R)
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FR2U'RU'RU'R'U2R'UR2F'"></p>F((R2U')(RU')(RU'))(R'U2)(R'UR2')F'
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU'R2F'RURU'R'"></p>y FU (RU')(R'U)(RU')(R2F')(RURU'R')
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'U'R'FR2UR'U'RUR'U'F'"></p>(RUR'U')(R'F)(R2UR'U')(RUR'U')F'
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU'r'FR'FrUL'UL"></p>(RU')(r'F)(R'F)(rU)(L'UL)
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU2R'U'RUR'F'"></p>y FU (RU'R'U)(RU2R'U')(RUR')F'
+### H cases
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'URU'R'URU2R'"></p>(RUR'U)(RU'R'U)(RU2R')
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFRUR'U'RUR'U'RUR'U'F'"></p>y F (RUR'U')(RUR'U')(RUR'U')F'
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FRU'R'URU2R'U'RUR'U'F'"></p>F (RU')(R'U)(RU2R'U')(RUR'U')F'
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'URUr'FR'F'r"></p>(RUR'U)(RU)(r'F)(R'F'r)
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
