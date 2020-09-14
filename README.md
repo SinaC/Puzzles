@@ -26,8 +26,12 @@ combination puzzle algorithms
 
 ## 3x3x3 COLL
 # Pi cases
-|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU2R2U'R2U'R2U2R"></p>RU2(R2'U')(R2U')(R2'U2'R)|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FR2U'RU'RU'R'U2R'UR2F'"></p>F((R2U')(RU')(RU'))(R'U2)(R'UR2')F'|
-|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU'R2F'RURU'R'"></p>y FU (RU')(R'U)(RU')(R2F')(RURU'R')|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'U'R'FR2UR'U'RUR'U'F'"></p>(RUR'U')(R'F)(R2UR'U')(RUR'U')F'|
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU2R2U'R2U'R2U2R"></p>RU2(R2'U')(R2U')(R2'U2'R)
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FR2U'RU'RU'R'U2R'UR2F'"></p>F((R2U')(RU')(RU'))(R'U2)(R'UR2')F'
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU'R2F'RURU'R'"></p>y FU (RU')(R'U)(RU')(R2F')(RURU'R')
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'U'R'FR2UR'U'RUR'U'F'"></p>(RUR'U')(R'F)(R2UR'U')(RUR'U')F'
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU'r'FR'FrUL'UL"></p>(RU')(r'F)(R'F)(rU)(L'UL)
+* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU2R'U'RUR'F'"></p>y FU (RU'R'U)(RU2R'U')(RUR')F'
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
