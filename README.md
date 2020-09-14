@@ -26,17 +26,8 @@ combination puzzle algorithms
 
 ## 3x3x3 COLL
 # Pi cases
-<table>
-<tr>
-<td>* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU2R2U'R2U'R2U2R"></p>RU2(R2'U')(R2U')(R2'U2'R)</td>
-<td>* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FR2U'RU'RU'R'U2R'UR2F'"></p>F((R2U')(RU')(RU'))(R'U2)(R'UR2')F'</td>
-</tr>
-<tr>
-<td>* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU'R2F'RURU'R'"></p>y FU (RU')(R'U)(RU')(R2F')(RURU'R')</td>
-<td>* <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'U'R'FR2UR'U'RUR'U'F'"></p>(RUR'U')(R'F)(R2UR'U')(RUR'U')F'</td>
-</tr>
-
-
+|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RU2R2U'R2U'R2U2R"></p>RU2(R2'U')(R2U')(R2'U2'R)|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FR2U'RU'RU'R'U2R'UR2F'"></p>F((R2U')(RU')(RU'))(R'U2)(R'UR2')F'|
+|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=yFURU'R'URU'R2F'RURU'R'"></p>y FU (RU')(R'U)(RU')(R2F')(RURU'R')|<p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'U'R'FR2UR'U'RUR'U'F'"></p>(RUR'U')(R'F)(R2UR'U')(RUR'U')F'|
 
 ## Fisher's Cube
 * Ua center-orientation-wise: U2 R U R' U R' U' R2 U' R' U R' U R
