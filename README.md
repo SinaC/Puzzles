@@ -38,7 +38,7 @@ combination puzzle algorithms
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=FRU'R'URU2R'U'RUR'U'F'"></p>F (RU')(R'U)(RU2R'U')(RUR'U')F'
 * <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&stage=coll&ac=black&cc=grey&case=RUR'URUr'FR'F'r"></p>(RUR'U)(RU)(r'F)(R'F'r)
 
-## 3x3x3 half-scrable
+## 3x3x3 half-scramble
 * U'DL2UB2D2B2D2LF'UD'RU'F2LF'B'
 
 ## Fisher's Cube
