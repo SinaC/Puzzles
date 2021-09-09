@@ -4,7 +4,7 @@ combination puzzle algorithms
 ## 3x3x3
 * Aa <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U2U8-s7,U8U0-s7"/></p> x(R'UR') D2 (RU'R') (D2R2)
 * Ab <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8-s7,U8U2-s7,U2U0-s7"></p> x(R2D2)(RUR') D2 (RU'R)
-* E:  TBD
+* E <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U6,U2U8"/></p> x'(RU'R'D)(RUR'D')(RUR'D)(RU'R'D')x
 * Ua <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U5-s7,U5U1-s7,U1U3-s7"/></p> (R2U')(R'U')(RU)(RU)(RU'R)
 * Ub <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U5U3-s7,U3U1-s7,U1U5-s7"/></p> (R'UR'U')(R'U')(R'U)(RUR2)
 * Z <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U1,U1U3,U7U5,U5U7"/></p> (M2'U)(M2'U)(M'U2)(M2'U2)(M'U2)
