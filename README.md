@@ -13,12 +13,12 @@ combination puzzle algorithms
 * Jb <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U7U5-s7,U5U7-s7,U2U8-s7,U8U2-s7"/></p> (L'U)(RU')LU2(R'URU2)R'  or  (RUR'F')(RUR'U')(R'FR2U'R')
 * T <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U5-s7,U5U3-s7,U2U8-s7,U8U2-s7"/></p> (RUR'U')(R'F)(R2U')(R'U'RU)(R'F')
 * Ra <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U1U3,U3U1,U2U8,U8U2"/></p> (R2B') R'U' (R'URBR'U2)(RU2R')
-* Rb <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U7,U7U3,U2U8,U8U2"/></p>(R2FRU) RU'R'F' R U2 (R'U2R)
+* Rb <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U3U7,U7U3,U2U8,U8U2"/></p> (R2FRU) RU'R'F' R U2 (R'U2R)
 * F <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U2U8,U8U2,U1U7,U7U1"/></p> (R'U'F')(RUR'U')(R'FR2U')(R'U'RU)(R'UR)
-* Ga: TBD
-* Gb: TBD
-* Gc: TBD
-* Gd: TBD
+* Ga: <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U6U0-s7,U2U6-s7"/></p> R2u (R'UR'U') Ru'R2 y' (R'UR)
+* Gb: <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U6U0-s7,U2U6-s7"/></p> (F'U'F)(R2uR'U)(RU'Ru')R2'
+* Gc: <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U6U0-s7,U2U6-s7"/></p> R2F2 (RU2')(RU2') R'F (RUR'U') R'FR2
+* Gd: <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U2-s7,U6U0-s7,U2U6-s7"/> (R2F')(RU)(RU'R'F') RU2R'U2R'F2R2
 * V <p align="bottom"><img src="http://cube.rider.biz/visualcube.php?fmt=svg&size=200&view=plan&ac=black&cc=grey&arw=U0U8,U8U0,U1U5,U5U1"/></p> (R'UR'U') y (R'F'R2U')(R'UR'F) RF
 * Na: TBD
 * Nb: TBD
